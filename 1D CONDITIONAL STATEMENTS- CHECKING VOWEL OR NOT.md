@@ -3,7 +3,7 @@
 ## AIM  
 To write a Python program to check whether the entered year is 20th century or not using if..else statement.
 ## ALGORITHM  
-1. Begin the program.  
+1. Begin the program.   
 2. Accept an integer input from the user representing a year.
 3. Check whether the year lies between 1900 and 1999 (inclusive).
 4. If true, display "Year is 20th Century."
